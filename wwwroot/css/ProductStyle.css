@@ -1,0 +1,40 @@
+﻿.FilterButton {
+    border: solid 1px #1b6ca8;
+    background: #1b6ca8;
+    color: #fff;
+    font-size: 11px;
+    padding: 2px 12px;
+    border-radius: 3px 3px 3px 3px;
+    outline: none;
+    margin: 0.05rem;
+    width: max-content;
+}
+
+.bx_label {
+    font-family: 'montserratmedium';
+    margin-top: 4px;
+    color: #5d5d5d !important;
+    font-size: 12px !important;
+}
+
+.bx_labelval {
+    font-size: 12px;
+    margin-top: 4px;
+    color: #444;
+    font-family: 'montserratsemibold';
+}
+
+label.error {
+    color: #ff3547 !important;
+}
+
+.field-validation-error {
+    font-size: 12.6px;
+    font-weight: bold;
+    display: flex;
+    font-family: 'open_sansregular';
+}
+
+.HiddenStyle {
+    display: none;
+}
