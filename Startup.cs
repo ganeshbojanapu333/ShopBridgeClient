@@ -13,8 +13,6 @@ using ShopBridgeClient.Models.Repositories;
 
 namespace ShopBridgeClient
 {
-
-    //second comment
     public class Startup
     {
         public Startup(IConfiguration configuration)
