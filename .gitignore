@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Release/netcoreapp3.0/ShopBridgeClient.RazorAssemblyInfo.cs
+/obj/Release/netcoreapp3.0/ShopBridgeClient.RazorAssemblyInfo.cache
+/obj/Release/netcoreapp3.0/ShopBridgeClient.AssemblyInfoInputs.cache
+/obj/Release/netcoreapp3.0/ShopBridgeClient.AssemblyInfo.cs
+/obj/Release/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+/obj/Release/netcoreapp3.0
+/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+/obj/Debug/netcoreapp3.0
+/obj
+/.vs/slnx.sqlite
+/.vs/ShopBridgeClient/v16/.suo
+/.vs/ShopBridgeClient/v16
+/.vs
