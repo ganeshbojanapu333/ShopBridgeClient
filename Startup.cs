@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShopBridgeClient.Models;
 using ShopBridgeClient.Models.Repositories;
-
+//Added firsst comment
 namespace ShopBridgeClient
 {
     public class Startup
